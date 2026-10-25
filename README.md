@@ -3,7 +3,8 @@
 
 ### 🚀 Strong Software Engineer | AI Focus
 
-I am a developer with a solid background in **Data Structures, Algorithms, and OOP**, dedicated to creating user-focused and super-integrated software.
+Motivated AI Engineering graduate with a strong foundation in Machine Learning, Computer vision,  
+Agentic AI and RAG systems. Proficient in TensorFlow, LangChain and Docker/AWS, seeking a Junior AI Engineer role where I can build AI-powered solutions. 
 
 ---
 
